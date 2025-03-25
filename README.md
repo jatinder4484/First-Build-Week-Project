@@ -16,3 +16,4 @@
 #### Cart Functionality & Price Calculation
 #### Checkout Validation
 #### UI/UX Performance Checks
+![image](https://github.com/user-attachments/assets/0144db4b-be24-4a6e-bd5c-d51e9090a41c)
